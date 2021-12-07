@@ -2,4 +2,4 @@ auth:
   username: guest
   password: "guest"
 metrics:
-  enabled: false
+  enabled: true
